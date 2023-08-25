@@ -1,0 +1,216 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container{
+    padding: 0 15rem;
+}
+
+header{
+    background-color: #fff;
+    padding: 50px 0;
+}
+
+.header-all{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a{
+    color: black;
+    font-size: 18px;
+    margin-right: 25px;
+}
+
+.icon{
+    border: 1px solid;
+    width: 70px;
+    height: 40px;
+    border-radius: 43%;
+    padding-top: 10px;
+    padding-left: 8px;
+    border-color: rgb(211, 211, 211);
+}
+
+.icon a i{
+    color: #ff6400;
+}
+
+.karts-all{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+}
+
+.karts-box{
+    display: flex;
+    width: 30%;
+}
+
+.karts-box img{
+    width: 100%;
+}
+
+.karts-text{
+   width: 65%;
+}
+
+.karts-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.karts-right{
+    display: flex;
+    background-color: #ff6400;
+    width: 100px;
+    border-radius: 20px;
+    padding-top: 10px;
+    height: 35px;
+    padding-left: 15px;
+}
+
+.karts-right i{
+    margin-left: 10px;
+    color: white;
+}
+
+.karts-right a{
+   color: white;
+}
+
+#karts h1{
+    color: #ff6400;
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    font-size: 23px;
+}
+
+.bottom .box{
+    display: flex;
+}
+
+.bottom .box i{
+    color: #ff6400;
+    margin-top: 10px;
+}
+
+.bottom .box p{
+    margin-left: 10px;
+}
+
+.karts-left{
+    margin-bottom: 60px;
+}
+
+.secondkarts-box{
+    width: 40%;
+}
+
+.secondkarts-box h2{
+    font-size: 30px;
+    margin-top: 25px;
+}
+
+.secondkarts-box p{
+    margin-top: 25px;
+    line-height: 25px;
+    margin-bottom: 25px;
+    width: 425px;
+}
+
+.secondkarts-box img{
+    width: 100%;
+    margin-top: 70px;
+}
+
+.secondkarts-all{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.secondkarts-text a{
+    border: 1px solid;
+    width: 120px;
+    display: inline-block;
+    height: 50px;
+    padding-top: 16px;
+    border-radius: 22px;
+    padding-left: 28px;
+    background-color: #ff6400;
+    color: white;
+}
+
+.secondkarts-text i{
+    margin-left: -45px;
+    color: white;
+}
+
+.container h1{
+    margin-top: 50px;
+}
+
+.secondkarts-box a{
+    border: 1px solid;
+    width: 120px;
+    display: inline-block;
+    height: 50px;
+    padding-top: 16px;
+    border-radius: 22px;
+    padding-left: 28px;
+    background-color: #ff6400;
+    color: white;
+}
+
+.secondkarts-box i{
+    margin-left: -45px;
+    color: white;
+}
+
+.menu{
+    margin: 0 20px;
+    margin-top: 50px;
+    
+}
+
+.sortkarts-all{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu a{
+    margin: 10px 0;
+    color: #333;
+    font-size: 14px;
+    transition: 0.5s;
+    
+}
+
+.menu h3{
+    margin-bottom: 30px;
+}
+
+.menu:hover{
+    cursor: pointer;
+}
+
+.container{
+    padding: 0 15rem;
+}
+
+.kod a{
+    display: block;
+    margin-top: 10px;
+}
+
+
+.sortkarts-all{
+    display: flex;
+}
